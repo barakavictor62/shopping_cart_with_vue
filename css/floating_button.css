@@ -1,0 +1,23 @@
+.floating-button {
+    /*background: #03A9F4;*/
+    background: #222;
+    color: #FFF;
+    box-shadow: 0px 0px 3px rgba(0, 0, 0, 0.5), 3px 3px 3px rgba(0, 0, 0, 0.25);
+    position: fixed;
+    top: 88px;
+    right: 48px;
+    display: inline-block;
+    cursor: pointer;
+  }
+  .cd-cart-items{
+    font-size: 0.8em;
+  }
+  .items{
+    margin-bottom: 5vh;
+  }
+  .card:hover{
+    box-shadow: 0 .5rem 1rem rgba(0,0,0,.15)!important;
+  }
+  .font-weight-normal{
+    font-weight: 400!important;
+  }

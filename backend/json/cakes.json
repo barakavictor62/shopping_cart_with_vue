@@ -1,0 +1,87 @@
+{"cakes":[
+    {
+        "id":1,
+        "name":"Vanilla Cake",
+        "src":"databaseImages/vanilla1.jpg",
+        "description":"Try the amazing vanilla cake for your special day.(from 1Kg)",
+        "price":1000
+    },
+    {
+        "id":2,
+        "name":"BlackForest cake",
+        "src":"databaseImages/blackforest.JPG",
+        "description":"Enjoy the amazing yummy chocolate blackforest cake. (From 1Kg)",
+        "price":1500
+    },
+    {
+        "id":3,
+        "name":"Amarula Cake",
+        "src":"databaseImages/amarula.jpg",
+        "description":"Enjoy the African Cake on Your Amazing Day.(From 1Kg)",
+        "price":1500
+    },
+    {
+        "id":4,
+        "name":"White Forest Cake",
+        "src":"databaseImages/whiteforest.jpg",
+        "description":"Enjoy this amazing cake on your amazing day. (From 1Kg)",
+        "price":1500
+    },
+    {
+        "id":5,
+        "name":"StrawBerry Cake",
+        "src":"databaseImages/strawberry.jpg",
+        "description":"Try the amazing StrawBerry cake for your special day.(from 1Kg)",
+        "price":1000
+    },
+    {
+        "id":6,
+        "name":"Cartoon cake",
+        "src":"databaseImages/cartoon.jpg",
+        "description":"Enjoy and pimp the amazing yummy cartoon cake. (From 1Kg)",
+        "price":2500
+    },
+    {
+        "id":7,
+        "name":"BlueBerry Cake",
+        "src":"databaseImages/blueberry.jpg",
+        "description":"Enjoy the BlueBerry Cake on Your Amazing Day.(From 1Kg)",
+        "price":1500
+    },
+    {
+        "id":8,
+        "name":"White Forest Cake",
+        "src":"databaseImages/whiteforest.jpg",
+        "description":"Enjoy this amazing cake on your amazing day. (From 1Kg)",
+        "price":1500
+    },
+    {
+        "id":9,
+        "name":"Vanilla Cake",
+        "src":"databaseImages/vanilla1.jpg",
+        "description":"Try the amazing vanilla cake for your special day.(from 1Kg)",
+        "price":1000
+    },
+
+    {
+        "id":10,
+        "name":"BlackForest cake",
+        "src":"databaseImages/blackforest.JPG",
+        "description":"Enjoy the amazing yummy chocolate blackforest cake. (From 1Kg)",
+        "price":1500
+    },
+    {
+        "id":11,
+        "name":"Amarula Cake",
+        "src":"databaseImages/amarula.jpg",
+        "description":"Enjoy the African Cake on Your Amazing Day.(From 1Kg)",
+        "price":1500
+    },
+    {
+        "id":12,
+        "name":"White Forest Cake",
+        "src":"databaseImages/whiteforest.jpg",
+        "description":"Enjoy this amazing cake on your amazing day. (From 1Kg)",
+        "price":1500
+    }
+]}
